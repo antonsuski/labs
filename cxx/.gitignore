@@ -1,0 +1,7 @@
+# Extensions
+*.o
+*.d
+
+# Directories
+build/
+
